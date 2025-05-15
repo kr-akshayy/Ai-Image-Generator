@@ -18,3 +18,4 @@ This is a simple web app that generates images from text prompts using OpenAI's 
 # Deployment
 You can push this project to GitHub and host it using GitHub Pages.
 
+#Author:Kumar Akshay
